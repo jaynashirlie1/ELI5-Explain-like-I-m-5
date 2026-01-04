@@ -1,0 +1,5 @@
+{
+  "name": "Explain Like I'm 5 Bot",
+  "description": "A sophisticated chatbot that simplifies complex text into easy-to-understand explanations for various reading levels, featuring a Gemini-inspired dashboard and chat history management.",
+  "requestFramePermissions": []
+}
