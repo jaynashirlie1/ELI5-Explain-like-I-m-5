@@ -12,7 +12,6 @@ The goal of ELI5 is to reduce learning friction by reformulating advanced or unf
 
 ## 🖼️ Application Screenshots
 
-_The following sections can be used to showcase the user interface and application flow._
 
 ### 🖼️ Login Page
 <img width="1920" height="1080" alt="Screenshot 2026-01-05 001406" src="https://github.com/user-attachments/assets/71387788-008b-4d32-a9a0-18b2a7a22ee4" />
